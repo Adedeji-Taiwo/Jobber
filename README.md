@@ -3,7 +3,7 @@
 ##  Overview
 Looking for job has never been easier. With this React Native job app, you can search for job listings in any category and find detailed information about each opportunity including qualifications, requirements, and links to apply.
 
-![Screenshot](https://github.com/Adedeji-Taiwo/BumbleBee/blob/main/assets/Screenshot%202021-08-31%20100127.png)
+![Screenshot](https://github.com/Adedeji-Taiwo/Jobber/blob/main/assets/images/splash.png)
 
 - Live link: https://expo.dev/@dhegyaino/React_Native_Jobs?serviceType=classic&distributioon=expo-go
 
